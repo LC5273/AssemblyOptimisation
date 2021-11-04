@@ -1,0 +1,7 @@
+﻿  array.cpp
+C:\Users\daniel.dima\Desktop\new_git_com\AssemblyOptimisation\FireStorm_Assembly_Optimization\array.cpp(66,10): warning C4616: #pragma warning: warning number '1011' not a valid compiler warning
+  Main.cpp
+C:\Users\daniel.dima\Desktop\new_git_com\AssemblyOptimisation\FireStorm_Assembly_Optimization\Main.cpp(48,9): warning C4616: #pragma warning: warning number '1011' not a valid compiler warning
+  Timer.cpp
+  Generating Code...
+  FireStorm_Assembly_Optimization.vcxproj -> C:\Users\daniel.dima\Desktop\new_git_com\AssemblyOptimisation\Debug\FireStorm_Assembly_Optimization.exe

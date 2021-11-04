@@ -1,0 +1,146 @@
+﻿  array.cpp
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\InstrumentationSession.hpp(121,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(54,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(55,3): error C2065: 'mov': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(55,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(55,7): error C2065: 'ecx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(56,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(56,12): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(57,7): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(57,12): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(58,3): error C2146: syntax error: missing ';' before identifier 'cmp'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(58,3): error C2065: 'cmp': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(58,8): error C2065: 'ecx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(59,3): error C2146: syntax error: missing ';' before identifier 'je'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(59,3): error C2065: 'je': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(59,6): error C2146: syntax error: missing ';' before identifier 'end'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(59,6): error C2065: 'end': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,3): error C2146: syntax error: missing ';' before identifier 'loop1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,11): error C2065: 'add': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,15): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,15): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,24): error C3481: 'ecx': lambda capture variable not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(60,25): error C3260: '.': skipping unexpected token(s) before lambda body
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(66,10): warning C4616: #pragma warning: warning number '1011' not a valid compiler warning
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(72,1): error C4573: the usage of 'array::length' requires the compiler to capture 'this' but the current default capture mode does not allow it
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(73,1): error C4573: the usage of 'array::buffer' requires the compiler to capture 'this' but the current default capture mode does not allow it
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(72,18): error C2065: 'length': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(73,3): error C2065: 'buffer': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(73,15): error C2065: 'buffer': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(124,1): error C2144: syntax error: 'void' should be preceded by ';'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(124,26): error C2601: 'array::multiply_a': local function definitions are illegal
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(126,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(148,37): error C2601: 'array::multiply_var': local function definitions are illegal
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(178,39): error C2601: 'array::multiply_var_a': local function definitions are illegal
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(180,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\array.cpp(247,1): fatal error C1004: unexpected end-of-file found
+  Main.cpp
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\InstrumentationSession.hpp(121,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(23,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(24,3): error C2065: 'mov': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(24,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(27,3): error C2146: syntax error: missing ';' before identifier 'cdq'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(27,3): error C2065: 'cdq': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(28,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(28,12): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'sub'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(29,3): error C2065: 'sub': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(29,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(29,12): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(30,3): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(30,3): error C2065: 'fld1': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'jz'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(31,3): error C2065: 'jz': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(31,6): error C2146: syntax error: missing ';' before identifier 'L9'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(31,6): error C2065: 'L9': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,3): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,3): error C2065: 'fld': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'qword'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,7): error C2065: 'qword': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,13): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,13): error C2065: 'ptr': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(32,17): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(33,3): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(33,3): error C2065: 'jmp': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(33,7): error C2146: syntax error: missing ';' before identifier 'L2'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(33,7): error C2065: 'L2': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(34,3): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(35,3): error C2065: 'fmul': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(35,8): error C2146: syntax error: missing ';' before identifier 'st'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(35,8): error C3861: 'st': identifier not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(35,15): error C3861: 'st': identifier not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(36,4): error C2146: syntax error: missing ';' before identifier 'L2'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(37,4): error C2065: 'shr': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(37,8): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(37,8): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(38,4): error C2146: syntax error: missing ';' before identifier 'jnc'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(38,4): error C2065: 'jnc': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(38,8): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(38,8): error C2065: 'L1': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(39,4): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(39,4): error C2065: 'fmul': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(39,9): error C2146: syntax error: missing ';' before identifier 'st'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(39,9): error C3861: 'st': identifier not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(39,16): error C3861: 'st': identifier not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(40,4): error C2146: syntax error: missing ';' before identifier 'jnz'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(40,4): error C2065: 'jnz': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(40,8): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(40,8): error C2065: 'L1': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(41,4): error C2146: syntax error: missing ';' before identifier 'fstp'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(41,4): error C2065: 'fstp': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(41,9): error C2146: syntax error: missing ';' before identifier 'st'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(41,9): error C3861: 'st': identifier not found
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(42,4): error C2146: syntax error: missing ';' before identifier 'test'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(42,4): error C2065: 'test': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(42,9): error C2146: syntax error: missing ';' before identifier 'edx'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(42,9): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(42,14): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(43,4): error C2146: syntax error: missing ';' before identifier 'jns'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(43,4): error C2065: 'jns': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(43,8): error C2146: syntax error: missing ';' before identifier 'L9'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(43,8): error C2065: 'L9': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(44,4): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(44,4): error C2065: 'fld1': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(45,4): error C2146: syntax error: missing ';' before identifier 'fdivr'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(45,4): error C2065: 'fdivr': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(46,4): error C2146: syntax error: missing ';' before identifier 'L9'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(47,2): error C2059: syntax error: '}'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(48,9): warning C4616: #pragma warning: warning number '1011' not a valid compiler warning
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(55,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(56,3): error C2065: 'mov': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(56,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(56,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(57,3): error C2146: syntax error: missing ';' before identifier 'cdq'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(57,3): error C2065: 'cdq': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(58,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(58,12): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(59,3): error C2146: syntax error: missing ';' before identifier 'sub'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(59,3): error C2065: 'sub': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(59,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(59,7): error C2065: 'eax': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(59,12): error C2065: 'edx': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(60,3): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(60,3): error C2065: 'fld1': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(61,3): error C2146: syntax error: missing ';' before identifier 'jz'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(61,3): error C2065: 'jz': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(61,6): error C2146: syntax error: missing ';' before identifier 'L9'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(61,6): error C2065: 'L9': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,3): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,3): error C2065: 'fld': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,7): error C2146: syntax error: missing ';' before identifier 'qword'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,7): error C2065: 'qword': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,13): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,13): error C2065: 'ptr': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(62,17): error C2146: syntax error: missing ';' before identifier 'x'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(63,3): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(63,3): error C2065: 'jmp': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(63,7): error C2146: syntax error: missing ';' before identifier 'L2'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(63,7): error C2065: 'L2': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(64,3): error C2146: syntax error: missing ';' before identifier 'L1'
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(64,8): error C2065: 'fmul': undeclared identifier
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\Main.cpp(64,15): fatal error C1003: error count exceeds 100; stopping compilation
+  Timer.cpp
+C:\Users\daniel.dima\Desktop\new_git_com\optimizare-hardcore-in-cadrul-unui-game-engine\FireStorm_Assembly_Optimization\InstrumentationSession.hpp(121,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
